@@ -1,5 +1,5 @@
 {
-  "name": "igvteam",
+  "name": "igv.js",
   "version": "0.1.0",
   "description": "Genomics visualization package",
   "main": "igv.js",
