@@ -2,7 +2,7 @@
   "name": "igv.js",
   "version": "0.1.0",
   "description": "Genomics visualization package",
-  "main": "igv.js",
+  "main": "igv.min.js",
   "scripts": {
     "test": "echo \"Error: no tests defined\" && exit 1"
   },
