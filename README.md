@@ -1,1 +1,7 @@
-# igv.js-npm
+# NPM module for igv
+
+## usage
+
+```
+npm install igv
+```
